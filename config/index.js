@@ -24,7 +24,8 @@ const config = {
                 './src/views/index/stylesheets/common/*.scss'
             ],
              // index页面处理之后的index.min.css需要合并的文件
-            'index': './src/views/index/stylesheets/index/*.scss'
+            'index': './src/views/index/stylesheets/index/*.scss',
+            'swiper': './src/stylesheets/swiper.min.css'
         },
         'list': {
             'list': [
